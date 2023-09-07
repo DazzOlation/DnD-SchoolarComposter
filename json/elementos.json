@@ -1,0 +1,124 @@
+{
+    "objetos": [
+      {
+        "id": "1",
+        "nombre": "Manzana Mordida",
+        "tipo": "compostera",
+        "imagen": "https://us.123rf.com/450wm/kaiskynet/kaiskynet1406/kaiskynet140600111/29602813-manzana-roja-mordida-aislada-en-un-fondo-blanco.jpg?ver=6"
+      },
+      {
+        "id": "2",
+        "nombre": "Cascara de Plátano",
+        "tipo": "compostera",
+        "imagen": "https://tvsana.com.ar/wp-content/uploads/2015/08/cascara-de-banana.jpg"
+      },
+      {
+        "id": "3",
+        "nombre": "Restos de Zanahoria",
+        "tipo": "compostera",
+        "imagen": "https://chilealimentos.com/wp-content/uploads/2019/04/deshechos_zanahoria_699px.jpg"
+      },
+      {
+        "id": "5",
+        "nombre": "Cascara de Naranja",
+        "tipo": "nosirve",
+        "imagen": "https://elcomercio.pe/resizer/_CCg1e7y0EfHY7KhihLnLRPanmE=/580x330/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/FRWSW6KIVJFETNPITFKLEKQMTU.png"
+      },
+      {
+        "id": "6",
+        "nombre": "Vidrio Roto",
+        "tipo": "basura",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/5VEHB5SBZRG2VP5JHGGCMTU4CY.jpg"
+      },
+      {
+        "id": "7",
+        "nombre": "Juguete Roto",
+        "tipo": "basura",
+        "imagen": "https://4.bp.blogspot.com/-wTvWYeYp8U8/T39qX-EvAWI/AAAAAAAAD6s/N53V8sojy5o/s1600/SAM_0046.JPG"
+      },
+      {
+        "id": "8",
+        "nombre": "Lata Vacía",
+        "tipo": "basura",
+        "imagen": "https://cdn1.intriper.com/wp-content/uploads/2019/03/20202304/coke.png"
+      },
+      {
+        "id": "9",
+        "nombre": "Pila",
+        "tipo": "basura",
+        "imagen": "https://phantom-elmundo.unidadeditorial.es/bb0d658f2861156272fe1f5e0c86457a/resize/414/f/jpg/assets/multimedia/imagenes/2021/01/21/16112147953112.jpg"
+      },
+      {
+        "id": "10",
+        "nombre": "Cartón Roto",
+        "tipo": "compostera",
+        "imagen": "https://static5.depositphotos.com/1000781/401/i/600/depositphotos_4013803-stock-photo-torn-cardboard.jpg"
+      },
+      {
+        "id": "11",
+        "nombre": "Huesos de Pescado",
+        "tipo": "nosirve",
+        "imagen": "https://i0.wp.com/ensedeciencia.com/wp-content/uploads/2022/11/Copia-de-C-EdCiencia-P-50.jpg?resize=800%2C451&ssl=1"
+      },
+      {
+        "id": "12",
+        "nombre": "Cascara de Huevo",
+        "tipo": "compostera",
+        "imagen": "https://estaticos-cdn.epe.es/clip/029e5847-6d69-487d-95b6-1fbed12b6665_alta-libre-aspect-ratio_default_0.jpg"
+      },
+      {
+        "id": "13",
+        "nombre": "Cascara de Cebolla",
+        "tipo": "nosirve",
+        "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/semana/3UJACN6D5NDDDPAFGGOXO4QWAU.jpg"
+      },
+      {
+        "id": "14",
+        "nombre": "Plumas",
+        "tipo": "nosirve",
+        "imagen": "https://www.ciaindumentaria.com.ar/plataforma/wp-content/uploads/2018/06/pluma.jpg"
+      },
+      {
+        "id": "15",
+        "nombre": "Fósforos Usados",
+        "tipo": "compostera",
+        "imagen": "https://img.freepik.com/fotos-premium/fosforos-usados-monton-fosforos-usar-superficie-madera-fondo-madera_209875-254.jpg?w=2000"
+      },
+      {
+        "id": "16",
+        "nombre": "Envase de Yogurt",
+        "tipo": "basura",
+        "imagen": "https://actuemosporelplanetahoy.org/wp-content/uploads/2018/07/yogur-pintura-2-2-594x340.jpg"
+      },
+      {
+        "id": "17",
+        "nombre": "Saquitos de Té",
+        "tipo": "compostera",
+        "imagen": "https://www.nexofin.com/archivos/2022/08/istock-487134068.jpg"
+      },
+      {
+        "id": "18",
+        "nombre": "Yerba",
+        "tipo": "compostera",
+        "imagen": "https://locosxelmate.com/wp-content/uploads/2015/11/yerbadecerca.jpg"
+      },
+      {
+        "id": "19",
+        "nombre": "Mechón de Pelo",
+        "tipo": "nosirve",
+        "imagen": "https://e00-elmundo.uecdn.es/elmundo/imagenes/2009/10/19/1255935789_1.jpg"
+      },
+      {
+        "id": "20",
+        "nombre": "Ajo",
+        "tipo": "nosirve",
+        "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/ajo.jpg"
+      },
+      {
+        "id": "4",
+        "nombre": "Pelota Pinchada",
+        "tipo": "basura",
+        "imagen": "https://elecodigital.com.uy/wp-content/uploads/2018/09/pelota-pinchada-1.jpg"
+      }
+    ]
+  }
